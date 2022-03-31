@@ -1,6 +1,5 @@
-# NodeJS ŠTC Project
+Matej Štofko
 
-Commands in order:
-- npm install #Install project
-- tsc #Compile to JavaScript
-- npm run start #Start the project
+
+Odkaz na profil:
+https://docs.microsoft.com/en-us/users/me/achievements#trophies-section
